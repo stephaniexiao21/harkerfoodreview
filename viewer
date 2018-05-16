@@ -1,0 +1,16 @@
+<header>
+   <div class="logo">
+     
+    <nav>
+       <a href=""> FEATURED </a></li>
+       <a href=""> RATE </a></li>
+       <a href=""> VOTE </a></li>
+       <a href=""> CONTACT US </a></li>
+    </nav> 
+    
+    <h1>Harker Food Review</h1>
+    <p class="kicker">Rate // Review // Enjoy</p>
+    
+    
+    
+</header>
